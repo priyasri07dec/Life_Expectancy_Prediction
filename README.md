@@ -50,7 +50,14 @@ The dataset contains country wise information related to:
 7. Model Evaluation
 8. Deployment using Streamlit
 
+### Application Screenshot
+
+![App Screenshot](images/app_screenshot.png)
+
 ### Streamlit Link
+
+https://priya-srivastava-lifeexpectancyprediction.streamlit.app/
+
 
 10. 
   
