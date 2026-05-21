@@ -52,7 +52,7 @@ The dataset contains country wise information related to:
 
 ### Application Screenshot
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](app_screenshot.png)
 
 ### Streamlit Link
 
