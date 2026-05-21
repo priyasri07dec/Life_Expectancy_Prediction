@@ -58,6 +58,4 @@ The dataset contains country wise information related to:
 
 https://priya-srivastava-lifeexpectancyprediction.streamlit.app/
 
-
-10. 
   
